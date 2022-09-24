@@ -347,6 +347,7 @@ section.formulario h2{
     font-size: 22px;
     font-weight: normal;
     color:#31475e;
+    margin-bottom: 10px;
 }
 
 section.formulario p{
@@ -381,6 +382,7 @@ section.formulario > .container{
 	color: #31475e;
 	font-size: 22px;
 	font-weight: normal;
+    margin-bottom: 10px;
 }
 
 .box-footer form p{
@@ -471,7 +473,7 @@ section.formulario > .container{
 @media screen and (max-width: 768px){
 
     .logo{
-        top:0px;
+        top:-2px;
        width:240px;
        height:35px;
    }
