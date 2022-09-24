@@ -40,7 +40,7 @@
                     <p>Nós criamos soluções de marketing para sua empresa vender mais, da melhor forma.</p>
                      <form>
                          <!--<input type="email" name="" placeholder="Seu email...." required>-->
-                         <a href="https://bit.ly/3BG8eFl"><button class="btn-whats"  type="submit"><i class="fa fa-whatsapp" aria-hidden="true"></i> <p>Quero Saber Mais</p></button></a>
+                         <a class="btn-whats" href="https://bit.ly/3BG8eFl"><i class="fa fa-whatsapp" aria-hidden="true"></i> <p>Quero Saber Mais</p></a>
                      </form>
                 </section><!---chamada-header--->
         </div><!--container-->
@@ -176,7 +176,7 @@
          <div class="container">
             <h2>Um orçamento ou alguma dúvida</h2>
             <form>
-            <a href="https://bit.ly/3BG8eFl"><button class="btn-whats"  type="submit"><i class="fa fa-whatsapp" aria-hidden="true"></i> <p   style="top:-2px;  position: relative;" >Quero Saber Mais</p></button></a>
+            <a class="btn-whats" href="https://bit.ly/3BG8eFl"><i class="fa fa-whatsapp" aria-hidden="true"></i> <p>Quero Saber Mais</p></a>
             </form>
          </div><!--container--->
     </section><!--formulario--->
@@ -189,7 +189,7 @@
             <div class="box-footer" style="text-align:center;">
                 <h2>Receba as nossas news</h2>
                 <form>
-                <a href="https://bit.ly/3BG8eFl"><button   class="btn-whats" type="submit"><i class="fa fa-whatsapp"  style=" font-size: 23px;" aria-hidden="true"></i> <p  style="top:-2px;  position: relative;" >Quero Saber Mais</p></button></a>                
+                <a class="btn-whats" href="https://bit.ly/3BG8eFl"><i class="fa fa-whatsapp" aria-hidden="true"></i> <p>Quero Saber Mais</p></a>
                </form>
             </div><!---box-footer--->
             <div class="clear"></div>
